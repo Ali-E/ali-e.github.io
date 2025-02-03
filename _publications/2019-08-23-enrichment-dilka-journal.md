@@ -1,0 +1,13 @@
+---
+title: "Enrichment of ovine gonadotropes via adenovirus gene targeting enhances assessment of transcriptional changes in response to estradiol-17 beta"
+collection: publications
+category: manuscripts
+permalink: /publication/2019-08-23-enrichment-dilka-journal
+excerpt: ''
+date: 2019-08-23
+venue: Biology of Reproduction
+paperurl: 'https://academic.oup.com/biolreprod/article/102/1/156/5553662'
+citation: 'Murtazina, D. A., Arreguin-Arevalo, J. A., Cantlon, J. D., Ebrahimpour-Boroojeny, A., Shrestha, A., Hicks, J. A., ... &amp; Clay, C. M. (2020). Enrichment of ovine gonadotropes via adenovirus gene targeting enhances assessment of transcriptional changes in response to estradiol-17 beta. Biology of Reproduction, 102(1), 156-169.'
+---
+
+Gonadotropes represent approximately 5–15% of the total endocrine cell population in the mammalian anterior pituitary. Therefore, assessing the effects of experimental manipulation on virtually any parameter of gonadotrope biology is difficult to detect and parse from background noise. In non-rodent species, applying techniques such as high-throughput ribonucleic acid (RNA) sequencing is problematic due to difficulty in isolating and analyzing individual endocrine cell populations. Herein, we exploited cell-specific properties inherent to the proximal promoter of the human glycoprotein hormone alpha subunit gene (CGA) to genetically target the expression of a fluorescent reporter (green fluorescent protein [GFP]) selectively to ovine gonadotropes. Dissociated ovine pituitary cells were cultured and infected with an adenoviral reporter vector (Ad-hαCGA-eGFP). We established efficient gene targeting by successfully enriching dispersed GFP-positive cells with flow cytometry. Confirming enrichment of gonadotropes specifically, we detected elevated levels of luteinizing hormone (LH) but not thyrotropin-stimulating hormone (TSH) in GFP-positive cell populations compared to GFP-negative populations. Subsequently, we used next-generation sequencing to obtain the transcriptional profile of GFP-positive ovine gonadotropes in the presence or absence of estradiol 17-beta (E2), a key modulator of gonadotrope function. Compared to non-sorted cells, enriched GFP-positive cells revealed a distinct transcriptional profile consistent with established patterns of gonadotrope gene expression. Importantly, we also detected nearly 200 E2-responsive genes in enriched gonadotropes, which were not apparent in parallel experiments on non-enriched cell populations. From these data, we conclude that CGA-targeted adenoviral gene transfer is an effective means for selectively labeling and enriching ovine gonadotropes suitable for investigation by numerous experimental approaches.
