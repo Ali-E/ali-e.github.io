@@ -24,7 +24,7 @@ More specifically, I am interested in designing methods that increase the robust
 
 [Jun 2024] 1 paper accepted to Nature Communications!
 
-[May 2024] Joining Google Cloude's workspace security and privacy team for summer internship!
+[May 2024] Joining Google Cloud's workspace security and privacy team for summer internship!
 
 [Jan 2024] 1 paper accepted to AISTATS 2024!
 
