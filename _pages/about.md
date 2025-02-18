@@ -18,7 +18,7 @@ More specifically, I am interested in designing methods that increase the robust
 
 [Jan 2025] Served as a reviewer at the Annual Learning for Dynamics & Control Conference (L4DC) 2025.
 
-[Dec 2024] 1 paper accepted for oral presentation at the AAAI-25 Workshop on Artificial Intelligence for Cyber Security (AICS)!
+[Dec 2024] 1 paper accepted for oral presentation at the AAAI-25 Workshop on Artificial Intelligence for Cyber Security (AICS 25)!
 
 [Oct 2024] Served as a reviewer at ICLR 2025.
 
