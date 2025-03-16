@@ -14,6 +14,8 @@ More specifically, I am interested in designing methods that increase the robust
 
 <h1>Latest News</h1>
 
+[Mar 2025] Served as a reviewer at SIGIR 2025.
+
 [Jan 2025] 1 paper accepted to ICLR 2025!
 
 [Jan 2025] Served as a reviewer at the Annual Learning for Dynamics & Control Conference (L4DC) 2025.
