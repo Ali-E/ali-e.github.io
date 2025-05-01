@@ -14,7 +14,7 @@ More specifically, I am interested in designing methods that increase the robust
 
 <h1>Latest News</h1>
 
-[May 2025] 1 paper accepted as spotlight at ICML 2025 (top 2.6%)
+[May 2025] 1 paper accepted as spotlight at ICML 2025 (top 2.6%)!
 
 [Mar 2025] Served as a reviewer at SIGIR 2025.
 
