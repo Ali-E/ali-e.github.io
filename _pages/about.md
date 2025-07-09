@@ -14,22 +14,22 @@ More specifically, I am interested in designing methods that increase the robust
 
 <h1>Latest News</h1>
 
-[May 2025] 1 paper accepted as spotlight at ICML 2025 (top 2.6%)!
+* [May 2025] 1 paper accepted as spotlight at ICML 2025 (top 2.6%)!
 
-[Mar 2025] Served as a reviewer at SIGIR 2025.
+* [Mar 2025] Served as a reviewer at SIGIR 2025.
 
-[Jan 2025] 1 paper accepted to ICLR 2025!
+* [Jan 2025] 1 paper accepted to ICLR 2025!
 
-[Jan 2025] Served as a reviewer at the Annual Learning for Dynamics & Control Conference (L4DC) 2025.
+* [Jan 2025] Served as a reviewer at the Annual Learning for Dynamics & Control Conference (L4DC) 2025.
 
-[Dec 2024] 1 paper accepted for oral presentation at the AAAI-25 Workshop on Artificial Intelligence for Cyber Security (AICS 25)!
+* [Dec 2024] 1 paper accepted for oral presentation at the AAAI-25 Workshop on Artificial Intelligence for Cyber Security (AICS 25)!
 
-[Oct 2024] Served as a reviewer at ICLR 2025.
+* [Oct 2024] Served as a reviewer at ICLR 2025.
 
-[Jun 2024] 1 paper accepted to Nature Communications!
+* [Jun 2024] 1 paper accepted to Nature Communications!
 
-[May 2024] Joining Google Cloud's workspace security and privacy team for summer internship!
+* [May 2024] Joining Google Cloud's workspace security and privacy team for summer internship!
 
-[Jan 2024] 1 paper accepted to AISTATS 2024!
+* :partying_face: [Jan 2024] 1 paper accepted to AISTATS 2024!
 
 
