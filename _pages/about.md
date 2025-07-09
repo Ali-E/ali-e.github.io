@@ -27,7 +27,7 @@ More specifically, I am interested in designing methods that increase the robust
 * :partying_face: [Jan 2024] 1 paper accepted to AISTATS 2024!
 
 
-<h1>Community Service</h1>
+<h2>Community Service</h2>
 
 * :monocle_face: [Jun 2025] Served as a reviewer at KDD 2025.
 
