@@ -48,25 +48,54 @@ More specifically, I am interested in designing methods that increase the robust
 </div>
 
 
-<h2>Community Service</h2>
+<h2>Peer Review Service</h2>
 
 <div class="news-scroll-container">
 <div class="news-scroll-inner">
 <div class="news-item">
-<div class="news-date"><span class="news-month">Jun</span><span class="news-year">2025</span></div>
-<div class="news-text">Served as a reviewer at KDD 2025.</div>
+<div class="news-date"><span class="news-month">Feb</span><span class="news-year">2026</span></div>
+<div class="news-count"><span class="news-number">6</span><span class="news-label">Papers</span></div>
+<div class="news-text">ICML 2026.</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">Jan</span><span class="news-year">2026</span></div>
+<div class="news-count"><span class="news-number">1</span><span class="news-label">Papers</span></div>
+<div class="news-text">IEEE Transactions on Big Data.</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">Oct</span><span class="news-year">2025</span></div>
+<div class="news-count"><span class="news-number">5</span><span class="news-label">Papers</span></div>
+<div class="news-text">ICLR 2026.</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">May</span><span class="news-year">2025</span></div>
+<div class="news-count"><span class="news-number">3</span><span class="news-label">Papers</span></div>
+<div class="news-text">KDD-UC 2025.</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">Feb</span><span class="news-year">2025</span></div>
+<div class="news-count"><span class="news-number">1</span><span class="news-label">Papers</span></div>
+<div class="news-text">IEEE Transactions on Emerging Topics in Computational Intelligence.</div>
 </div>
 <div class="news-item">
 <div class="news-date"><span class="news-month">Jan</span><span class="news-year">2025</span></div>
-<div class="news-text">Served as a reviewer at the Annual Learning for Dynamics &amp; Control Conference (L4DC) 2025.</div>
+<div class="news-count"><span class="news-number">1</span><span class="news-label">Papers</span></div>
+<div class="news-text">Learning for Dynamics &amp; Control Conference (L4DC) 2025.</div>
 </div>
 <div class="news-item">
 <div class="news-date"><span class="news-month">Mar</span><span class="news-year">2025</span></div>
-<div class="news-text">Served as a reviewer at SIGIR 2025.</div>
+<div class="news-count"><span class="news-number">2</span><span class="news-label">Papers</span></div>
+<div class="news-text">SIGIR 2025.</div>
 </div>
 <div class="news-item">
 <div class="news-date"><span class="news-month">Oct</span><span class="news-year">2024</span></div>
-<div class="news-text">Served as a reviewer at ICLR 2025.</div>
+<div class="news-count"><span class="news-number">2</span><span class="news-label">Papers</span></div>
+<div class="news-text">ICLR 2025.</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">May</span><span class="news-year">2025</span></div>
+<div class="news-count"><span class="news-number">3</span><span class="news-label">Papers</span></div>
+<div class="news-text">KDD-UC 2023.</div>
 </div>
 </div>
 </div>
