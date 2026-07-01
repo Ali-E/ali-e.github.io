@@ -199,8 +199,9 @@
   position: relative;
   border: 1px solid $border-color;
   border-radius: $border-radius;
-  padding: 0.75em 1em 0 1em;
+  overflow: hidden;
   margin-bottom: 1.5em;
+  box-shadow: 0 1px 4px rgba(#000, 0.06);
 
   &::after {
     content: '';
@@ -208,23 +209,92 @@
     bottom: 0;
     left: 0;
     right: 0;
-    height: 60px;
+    height: 50px;
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
     pointer-events: none;
-    border-radius: 0 0 $border-radius $border-radius;
-    z-index: 1;
+    z-index: 2;
   }
 }
 
 .news-scroll-inner {
-  max-height: 210px;
+  max-height: 260px;
   overflow-y: auto;
-  padding-right: 6px;
-  padding-bottom: 30px;
+  padding-bottom: 24px;
 
-  ul {
-    margin-bottom: 0;
+  /* thin styled scrollbar */
+  scrollbar-width: thin;
+  scrollbar-color: $light-gray transparent;
+
+  &::-webkit-scrollbar {
+    width: 8px;
   }
+
+  &::-webkit-scrollbar-thumb {
+    background: $light-gray;
+    border-radius: 4px;
+  }
+}
+
+.news-item {
+  display: flex;
+  align-items: stretch;
+  transition: background-color 0.15s ease-in-out;
+
+  /* shaded rows with zebra striping */
+  &:nth-child(odd) {
+    background-color: mix(#fff, $lighter-gray, 30%);
+  }
+
+  &:nth-child(even) {
+    background-color: #fff;
+  }
+
+  &:hover {
+    background-color: mix(#fff, $info-color, 88%);
+  }
+
+  &:not(:last-child) {
+    border-bottom: 1px solid mix(#fff, $border-color, 30%);
+  }
+}
+
+.news-date {
+  flex: 0 0 74px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6em 0;
+  text-align: center;
+  border-right: 3px solid $info-color;
+  background: mix(#fff, $info-color, 90%);
+
+  .news-month {
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: mix(#000, $info-color, 20%);
+    line-height: 1.1;
+  }
+
+  .news-year {
+    font-family: $sans-serif;
+    font-size: $type-size-7;
+    color: $gray;
+    line-height: 1.2;
+  }
+}
+
+.news-text {
+  flex: 1 1 auto;
+  display: flex;
+  align-items: center;
+  padding: 0.6em 1em;
+  font-size: $type-size-6;
+  line-height: 1.4;
+  color: $text-color;
 }
 
 

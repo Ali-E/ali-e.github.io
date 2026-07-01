@@ -15,20 +15,31 @@ More specifically, I am interested in designing methods that increase the robust
 <h1>Latest News</h1>
 
 <div class="news-scroll-container">
-<div class="news-scroll-inner" markdown="1">
-
-* :partying_face: [May 2025] 1 paper accepted as spotlight at ICML 2025 (top 2.6%)!
-
-* :partying_face: [Jan 2025] 1 paper accepted to ICLR 2025!
-
-* :partying_face: [Dec 2024] 1 paper accepted for oral presentation at the AAAI-25 Workshop on Artificial Intelligence for Cyber Security (AICS 25)!
-
-* :partying_face: [Jun 2024] 1 paper accepted to Nature Communications!
-
-* :partying_face: [May 2024] Joining Google Cloud's workspace security and privacy team for summer internship!
-
-* :partying_face: [Jan 2024] 1 paper accepted to AISTATS 2024!
-
+<div class="news-scroll-inner">
+<div class="news-item">
+<div class="news-date"><span class="news-month">May</span><span class="news-year">2025</span></div>
+<div class="news-text">1 paper accepted as spotlight at ICML 2025 (top 2.6%)!</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">Jan</span><span class="news-year">2025</span></div>
+<div class="news-text">1 paper accepted to ICLR 2025!</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">Dec</span><span class="news-year">2024</span></div>
+<div class="news-text">1 paper accepted for oral presentation at the AAAI-25 Workshop on Artificial Intelligence for Cyber Security (AICS 25)!</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">Jun</span><span class="news-year">2024</span></div>
+<div class="news-text">1 paper accepted to Nature Communications!</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">May</span><span class="news-year">2024</span></div>
+<div class="news-text">Joining Google Cloud's workspace security and privacy team for summer internship!</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">Jan</span><span class="news-year">2024</span></div>
+<div class="news-text">1 paper accepted to AISTATS 2024!</div>
+</div>
 </div>
 </div>
 
