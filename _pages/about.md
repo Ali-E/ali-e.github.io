@@ -14,6 +14,9 @@ More specifically, I am interested in designing methods that increase the robust
 
 <h1>Latest News</h1>
 
+<div class="news-scroll-container">
+<div class="news-scroll-inner" markdown="1">
+
 * :partying_face: [May 2025] 1 paper accepted as spotlight at ICML 2025 (top 2.6%)!
 
 * :partying_face: [Jan 2025] 1 paper accepted to ICLR 2025!
@@ -25,6 +28,9 @@ More specifically, I am interested in designing methods that increase the robust
 * :partying_face: [May 2024] Joining Google Cloud's workspace security and privacy team for summer internship!
 
 * :partying_face: [Jan 2024] 1 paper accepted to AISTATS 2024!
+
+</div>
+</div>
 
 
 <h2>Community Service</h2>

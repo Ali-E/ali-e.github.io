@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle exec *)",
+      "Bash(gem list *)",
+      "Read(//home/aebrahim/.rbenv/shims/**)",
+      "Read(//usr/local/bin/**)",
+      "Bash(gem install *)"
+    ]
+  }
+}
