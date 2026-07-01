@@ -50,10 +50,23 @@ More specifically, I am interested in designing methods that increase the robust
 
 <h2>Community Service</h2>
 
-* :monocle_face: [Jun 2025] Served as a reviewer at KDD 2025.
-
-* :monocle_face: [Jan 2025] Served as a reviewer at the Annual Learning for Dynamics & Control Conference (L4DC) 2025.
-
-* :monocle_face: [Mar 2025] Served as a reviewer at SIGIR 2025.
-
-* :monocle_face: [Oct 2024] Served as a reviewer at ICLR 2025.
+<div class="news-scroll-container">
+<div class="news-scroll-inner">
+<div class="news-item">
+<div class="news-date"><span class="news-month">Jun</span><span class="news-year">2025</span></div>
+<div class="news-text">Served as a reviewer at KDD 2025.</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">Jan</span><span class="news-year">2025</span></div>
+<div class="news-text">Served as a reviewer at the Annual Learning for Dynamics &amp; Control Conference (L4DC) 2025.</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">Mar</span><span class="news-year">2025</span></div>
+<div class="news-text">Served as a reviewer at SIGIR 2025.</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">Oct</span><span class="news-year">2024</span></div>
+<div class="news-text">Served as a reviewer at ICLR 2025.</div>
+</div>
+</div>
+</div>
