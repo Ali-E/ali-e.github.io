@@ -48,9 +48,9 @@ More specifically, I am interested in designing methods that increase the robust
 </div>
 
 
-<h2>Peer Review Service</h2>
+<h2>Peer Review Service <span class="review-total" id="review-total"></span></h2>
 
-<div class="news-scroll-container">
+<div class="news-scroll-container" id="peer-review">
 <div class="news-scroll-inner">
 <div class="news-item">
 <div class="news-date"><span class="news-month">Feb</span><span class="news-year">2026</span></div>
@@ -99,3 +99,16 @@ More specifically, I am interested in designing methods that increase the robust
 </div>
 </div>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var section = document.getElementById("peer-review");
+  var target = document.getElementById("review-total");
+  if (!section || !target) return;
+  var total = 0;
+  section.querySelectorAll(".news-number").forEach(function (el) {
+    total += parseInt(el.textContent, 10) || 0;
+  });
+  target.textContent = total + " papers";
+});
+</script>
