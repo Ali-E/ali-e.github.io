@@ -11,6 +11,8 @@ I am a Computer Science PhD candidate at the University of Illinois Urbana-Champ
 
 More specifically, I am interested in designing methods that increase the robustness of deep learning models to adversarial and non-adversarial noise. I am also interested in topics related to privacy, such as machine unlearning and its verification.
 
+**Update:** *I will be joining Gmail Shield Team to ensure continued security of Gmail!* :detective: :partying_face:
+
 
 <h1>Latest News</h1>
 
