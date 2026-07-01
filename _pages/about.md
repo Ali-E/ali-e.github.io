@@ -18,6 +18,10 @@ More specifically, I am interested in designing methods that increase the robust
 <div class="news-scroll-inner">
 <div class="news-item">
 <div class="news-date"><span class="news-month">May</span><span class="news-year">2026</span></div>
+<div class="news-text">Recognized as as Gold Reviewer at ICML 2026!</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">May</span><span class="news-year">2026</span></div>
 <div class="news-text">1 paper accepted at ICML 2026!</div>
 </div>
 <div class="news-item">
