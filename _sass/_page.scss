@@ -252,6 +252,11 @@
   }
 }
 
+/* Peer Review Service window is shorter than Latest News */
+#peer-review .news-scroll-inner {
+  max-height: 260px;
+}
+
 .news-item {
   display: flex;
   align-items: stretch;
