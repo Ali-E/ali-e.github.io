@@ -11,7 +11,7 @@ I am a Computer Science PhD candidate at the University of Illinois Urbana-Champ
 
 More specifically, I am interested in designing methods that increase the robustness of deep learning models to adversarial and non-adversarial noise. I am also interested in topics related to privacy, such as machine unlearning and its verification.
 
-**Update:** *I will be joining Gmail Shield Team at Google to ensure continued security of Gmail!* :detective: 
+**Update:** *I will be joining the Workspace Abuse, Security, and Privacy team (WASP) at Google to help ensure the continued security of Google Cloud products, including Gmail!* :detective: 
 
 
 <h1>Latest News</h1>
@@ -20,7 +20,7 @@ More specifically, I am interested in designing methods that increase the robust
 <div class="news-scroll-inner">
 <div class="news-item">
 <div class="news-date"><span class="news-month">May</span><span class="news-year">2026</span></div>
-<div class="news-text">Recognized as as Gold Reviewer at ICML 2026!</div>
+<div class="news-text">Recognized as a Gold Reviewer at ICML 2026 (top 25%)!</div>
 </div>
 <div class="news-item">
 <div class="news-date"><span class="news-month">May</span><span class="news-year">2026</span></div>
@@ -44,7 +44,7 @@ More specifically, I am interested in designing methods that increase the robust
 </div>
 <div class="news-item">
 <div class="news-date"><span class="news-month">May</span><span class="news-year">2024</span></div>
-<div class="news-text">Joining Google Cloud's workspace security and privacy team for summer internship!</div>
+<div class="news-text">Joining Google Cloud's Workspace Abuse, Security and Privacy team (WASP) for summer internship!</div>
 </div>
 <div class="news-item">
 <div class="news-date"><span class="news-month">Jan</span><span class="news-year">2024</span></div>
