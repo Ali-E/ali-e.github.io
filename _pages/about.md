@@ -11,7 +11,7 @@ I am a Computer Science PhD candidate at the University of Illinois Urbana-Champ
 
 More specifically, I am interested in designing methods that increase the robustness of deep learning models to adversarial and non-adversarial noise. I am also interested in topics related to privacy, such as machine unlearning and its verification.
 
-**Update:** *I will be joining the Workspace Abuse, Security, and Privacy team (WASP) at Google to help ensure the continued security of Google Cloud products, including Gmail!* :detective: 
+**Update:** *I will be joining the Workspace Abuse, Security, and Privacy team (WASP) at Google to help ensure the continued security of Google Cloud products!* :detective: 
 
 
 <h1>Latest News</h1>
