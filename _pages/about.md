@@ -19,12 +19,20 @@ More specifically, I am interested in designing methods that increase the robust
 <div class="news-scroll-container">
 <div class="news-scroll-inner">
 <div class="news-item">
+<div class="news-date"><span class="news-month">July</span><span class="news-year">2026</span></div>
+<div class="news-text">1 paper accepted at COLM Workshop on Agent Behavior!</div>
+</div>
+<div class="news-item">
 <div class="news-date"><span class="news-month">May</span><span class="news-year">2026</span></div>
 <div class="news-text">Recognized as a Gold Reviewer at ICML 2026 (top 25%)!</div>
 </div>
 <div class="news-item">
 <div class="news-date"><span class="news-month">May</span><span class="news-year">2026</span></div>
 <div class="news-text">1 paper accepted at ICML 2026!</div>
+</div>
+<div class="news-item">
+<div class="news-date"><span class="news-month">Nov</span><span class="news-year">2025</span></div>
+<div class="news-text">Awarded the Outstanding Teaching Assistant award by Siebel School of Computing and Data Science!</div>
 </div>
 <div class="news-item">
 <div class="news-date"><span class="news-month">May</span><span class="news-year">2025</span></div>
