@@ -24,7 +24,7 @@ More specifically, I am interested in designing methods that increase the robust
 </div>
 <div class="news-item">
 <div class="news-date"><span class="news-month">May</span><span class="news-year">2026</span></div>
-<div class="news-text">Recognized as a Gold Reviewer at ICML 2026 (top 25%)!</div>
+<div class="news-text">Recognized as a Gold Reviewer at ICML 2026 based on review quality (top 25%)!</div>
 </div>
 <div class="news-item">
 <div class="news-date"><span class="news-month">May</span><span class="news-year">2026</span></div>
