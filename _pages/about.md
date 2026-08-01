@@ -67,6 +67,11 @@ More specifically, I am interested in designing methods that increase the robust
 <div class="news-scroll-container" id="peer-review">
 <div class="news-scroll-inner">
 <div class="news-item">
+<div class="news-date"><span class="news-month">Jul</span><span class="news-year">2026</span></div>
+<div class="news-count"><span class="news-number">1</span><span class="news-label">Paper</span></div>
+<div class="news-text">NeurIPS 2026.</div>
+</div>
+<div class="news-item">
 <div class="news-date"><span class="news-month">Feb</span><span class="news-year">2026</span></div>
 <div class="news-count"><span class="news-number">6</span><span class="news-label">Papers</span></div>
 <div class="news-text">ICML 2026.</div>
